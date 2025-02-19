@@ -235,3 +235,6 @@ function robottechnika()
     localStorage.removeItem("Webprog");
     localStorage.removeItem("Programfejlesztes");
 }
+function goBack() {
+    window.history.back();
+}
