@@ -1,3 +1,3 @@
 $("#redirectButton").click(function(e){
-    window.location.replace("index.html");  
+    window.location.replace("folap.html");  
   });
