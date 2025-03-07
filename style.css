@@ -172,3 +172,9 @@ button {
 button:hover {
     background-color: rgb(150, 24, 24);
 }
+p {
+margin-left:20px
+}
+p:first-of-type {
+    margin-left:0px
+}
